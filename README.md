@@ -18,7 +18,10 @@ CSS – Styling and responsiveness
 JavaScript – Functionality and logic handling
 
 Screenshot:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2cf0d6e-2250-46ad-8194-f826822a9f45" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a5104a4-a267-43e9-8c31-8993911bd9dc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c67d536d-2006-4dfa-ad18-6a2d4da7835c" />
+
+
 
 How to Use:
 Clone the repository:
